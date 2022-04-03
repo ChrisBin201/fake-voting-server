@@ -1,0 +1,39 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Lionel Messi",
+      "votes": 20,
+      "imageUrl": "/images/messi.jpg",
+      "clubUrl": "/images/fcb.png"
+    },
+    {
+      "id": 2,
+      "name": "Cristiano Ronaldo",
+      "votes": 18,
+      "imageUrl": "/images/ronaldo.jpg",
+      "clubUrl": "/images/juv.png"
+    },
+    {
+      "id": 3,
+      "name": "mbappe",
+      "votes": 12,
+      "imageUrl": "/images/mbappe.jpg",
+      "clubUrl": "/images/psg.png"
+    },
+    {
+      "id": 4,
+      "name": "Neymar",
+      "votes": 15,
+      "imageUrl": "/images/neymar.jpg",
+      "clubUrl": "/images/psg.png"
+    },
+    {
+      "id": 5,
+      "name": "Eden Hazard",
+      "votes": 10,
+      "imageUrl": "/images/hazard.jpg",
+      "clubUrl": "/images/chelsea.jpeg"
+    }
+  ]
+}
