@@ -5,14 +5,14 @@
       "name": "Lionel Messi",
       "votes": 20,
       "imageUrl": "/images/messi.jpg",
-      "clubUrl": "/images/fcb.png"
+      "clubUrl": "/images/psg.png"
     },
     {
       "id": 2,
       "name": "Cristiano Ronaldo",
       "votes": 18,
       "imageUrl": "/images/ronaldo.jpg",
-      "clubUrl": "/images/juv.png"
+      "clubUrl": "/images/mu.png"
     },
     {
       "id": 3,
@@ -33,7 +33,7 @@
       "name": "Eden Hazard",
       "votes": 10,
       "imageUrl": "/images/hazard.jpg",
-      "clubUrl": "/images/chelsea.jpeg"
+      "clubUrl": "/images/real.jpeg"
     }
   ]
 }
